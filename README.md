@@ -1,3 +1,3 @@
 # Find The Pairs
 
-www.findthepairs.maxwatkins.co.uk
+findthepairs.maxwatkins.co.uk
